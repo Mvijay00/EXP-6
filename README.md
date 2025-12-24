@@ -1,4 +1,4 @@
-# EXP-6 CHARACTERISTICS M OF LVDT
+[# EXP-6 CHARACTERISTICS M OF LVDT
 ## AIM:
 To measure output voltage w.r.t the displacement of the core on the LVDT kit and find the graphical relationship between the two.
 
@@ -52,3 +52,4 @@ I. Connect the multimeter at the output of kit..
 
 ## RESULT: 
 LVDT was studied well and graph of displacement was linear for a particular range.
+](https://github.com/Mvijay00/EXP-6)
